@@ -1,4 +1,5 @@
-scikit-learn
+scikit-learn>=1.1
 pandas
 spacy
 notebook
+matplotlib
